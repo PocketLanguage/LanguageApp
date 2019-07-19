@@ -1,4 +1,4 @@
 {
-  "version" : 1,
+  "Version" : 1,
    "Url": "https://github.com/PocketLanguage/LanguageApp/raw/master/appitem"
 }
